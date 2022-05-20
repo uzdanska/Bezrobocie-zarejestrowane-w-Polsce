@@ -1,0 +1,3 @@
+"0","marzec_2019 <- marzec_2019 %>%"
+"0","  select(NAME_1, Kod, Miesiace, Plec, Rok, Wartosc) %>%"
+"0","  unite(""Rok.Plec"", c(Rok, Plec), sep = ""."")"

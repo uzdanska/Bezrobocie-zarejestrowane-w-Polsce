@@ -1,0 +1,4 @@
+"0","marzec_2020 <- read_excel(""marzec_2020.xlsx"", "
+"0","    sheet = ""DANE"", col_types = c(""text"", "
+"0","        ""text"", ""text"", ""text"", ""text"", ""numeric"", "
+"0","        ""text"", ""skip""))"

@@ -1,0 +1,2 @@
+"0","#gadm_1sf <- readRDS(file.choose())"
+"0","gadm_1sf <- readRDS(""dane/gadm36_POL_1_sf.rds"")"

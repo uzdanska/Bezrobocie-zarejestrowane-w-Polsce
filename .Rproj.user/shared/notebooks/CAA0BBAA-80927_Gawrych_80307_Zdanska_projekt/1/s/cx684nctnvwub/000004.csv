@@ -1,0 +1,12 @@
+"0","g1_podlaskie %>%"
+"0","  left_join(p1_podlaskie) %>% "
+"0","  ggplot() +"
+"0","  geom_sf(aes(fill = `2020.women`)) +"
+"0","  scale_fill_gradient(low = ""khaki"", high = ""red"") +"
+"0","  theme_bw() +"
+"0","  theme("
+"0","        plot.title = element_text(hjust = 0.5, size = rel(1.2))) +"
+"0","  labs(title = ""Liczba bezrobotnych kobiet w powiatach wojewodztwa podlaskiego"","
+"0","       caption = ""Zrodlo: opracowanie wlasne na podstawie danych z bdl GUS."")"
+"1","[38;5;232mJoining, by = ""NAME_2""[39m
+"

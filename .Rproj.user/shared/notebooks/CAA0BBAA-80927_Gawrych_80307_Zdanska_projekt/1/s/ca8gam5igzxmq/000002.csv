@@ -1,0 +1,5 @@
+"0","marzec_2020 <- marzec_2020 %>%"
+"0","   mutate(Nazwa = str_to_title((Nazwa)),"
+"0","         Plec = str_replace(Plec, ""ogółem"", ""all""),"
+"0","         Plec = str_replace(Plec, ""mężczyźni"", ""men""),"
+"0","         Plec = str_replace(Plec, ""kobiety"", ""women""))"

@@ -1,0 +1,8 @@
+"0","gadm_1sf.p <- gadm_1sf %>%"
+"0","  as.data.frame() %>%"
+"0","  left_join(marzec_2020.w) %>%"
+"0","  st_as_sf()"
+"1","[38;5;232mJoining, by = ""NAME_1""[39m
+"
+"2","old-style crs object detected; please recreate object with a recent sf::st_crs()
+"

@@ -1,0 +1,5 @@
+"0","g_podlaskie <- gadm_2sf %>%"
+"0","  filter(NAME_1 == ""Podlaskie"") %>%"
+"0","  arrange(NAME_2)"
+"2","old-style crs object detected; please recreate object with a recent sf::st_crs()
+"

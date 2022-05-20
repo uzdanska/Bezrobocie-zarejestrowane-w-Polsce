@@ -1,0 +1,3 @@
+"0","bezrobocie_ogolem <- read_excel(""bezrobocie_ogolem.xlsx"", "
+"0","    sheet = ""DANE"")"
+"0","bezrobocie_ogolem <- bezrobocie_ogolem[,c(1:6)]"

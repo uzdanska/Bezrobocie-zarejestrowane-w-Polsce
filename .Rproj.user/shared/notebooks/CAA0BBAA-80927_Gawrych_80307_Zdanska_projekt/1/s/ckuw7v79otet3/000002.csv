@@ -1,0 +1,3 @@
+"0","Podlasie_marzec_2020 <- read_excel(""Podlasie_marzec_2020.xlsx"", "
+"0","    sheet = ""DANE"")"
+"0","Podlasie_marzec_2020 <- Podlasie_marzec_2020[,c(1:6)]"

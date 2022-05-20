@@ -1,0 +1,2 @@
+"0","p_podlaskie <- p_podlaskie %>%"
+"0","  mutate(NAME_2 = g_podlaskie$NAME_2)"
